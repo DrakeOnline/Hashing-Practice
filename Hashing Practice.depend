@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1585445796 source:c:\users\drake\desktop\codeblocks projects\hashing practice\main.cpp
+	<iostream>
+	<map>
+	"Person.hpp"
+
+1585446266 source:c:\users\drake\desktop\codeblocks projects\hashing practice\person.cpp
+	"Person.hpp"
+
+1585446244 c:\users\drake\desktop\codeblocks projects\hashing practice\person.hpp
+	<string>
+	<ostream>
+	"Date.hpp"
+
+1585439502 c:\users\drake\desktop\codeblocks projects\hashing practice\date.hpp
+
